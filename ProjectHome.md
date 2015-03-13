@@ -1,0 +1,3 @@
+JEasyUML is a project for creating [UML](http://en.wikipedia.org/wiki/Unified_Modeling_Language?referer=jeasyuml) diagrams with little effort.  The idea is something like [http://www.websequencediagrams.com](http://www.websequencediagrams.com?referrer=jeasyuml) as a desktop application.
+
+The future ambition is to make a API available and create plugins for [NetBeans IDE](http://www.netbeans.org?referrer=jeasyuml) and [Eclipse IDE](http://www.eclipse.org?referrer=jeasyuml)
